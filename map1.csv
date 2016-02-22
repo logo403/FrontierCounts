@@ -1,0 +1,13 @@
+,province,link,long,lat,zoom,content
+1,CANADA,https://www.attractionscanada.com/Default.asp,-96.88,55.17,3,<b><a href='https://www.attractionscanada.com/Default.asp'>CANADA</a></b>
+2,NEWFOUNDLAND AND LABRADOR,https://www.attractionscanada.com/Newfoundland-and-Labrador/Attractions.asp,-55.7,48.46,5,<b><a href='https://www.attractionscanada.com/Newfoundland-and-Labrador/Attractions.asp'>NEWFOUNDLAND AND LABRADOR</a></b>
+3,PRINCE EDWARD ISLAND,https://www.attractionscanada.com/Prince-Edward-Island/Attractions.asp,-63.35,46.36,5,<b><a href='https://www.attractionscanada.com/Prince-Edward-Island/Attractions.asp'>PRINCE EDWARD ISLAND</a></b>
+4,NOVA SCOTIA,https://www.attractionscanada.com/Novascotia/Attractions.asp,-62.98,45.03,5,<b><a href='https://www.attractionscanada.com/Novascotia/Attractions.asp'>NOVA SCOTIA</a></b>
+5,NEW BRUNSWICK,https://www.attractionscanada.com/New-brunswick/Attractions.asp,-66.6,47.2,5,<b><a href='https://www.attractionscanada.com/New-brunswick/Attractions.asp'>NEW BRUNSWICK</a></b>
+6,QUEBEC,https://www.attractionscanada.com/Quebec/Attractions.asp,-72.46,50.89,4,<b><a href='https://www.attractionscanada.com/Quebec/Attractions.asp'>QUEBEC</a></b>
+7,ONTARIO,https://www.attractionscanada.com/Ontario/Attractions.asp,-83.88,49.46,4,<b><a href='https://www.attractionscanada.com/Ontario/Attractions.asp'>ONTARIO</a></b>
+8,MANITOBA,https://www.attractionscanada.com/Manitoba/Attractions.asp,-96.88,55.17,4,<b><a href='https://www.attractionscanada.com/Manitoba/Attractions.asp'>MANITOBA</a></b>
+9,SASKATCHEWAN,https://www.attractionscanada.com/Saskatchewan/Attractions.asp,-105.84,55.42,4,<b><a href='https://www.attractionscanada.com/Saskatchewan/Attractions.asp'>SASKATCHEWAN</a></b>
+10,ALBERTA,https://www.attractionscanada.com/Alberta/Attractions.asp,-115.78,54.66,4,<b><a href='https://www.attractionscanada.com/Alberta/Attractions.asp'>ALBERTA</a></b>
+11,BRITISH COLUMBIA,https://www.attractionscanada.com/British-Columbia/Attractions.asp,-125.09,56.06,4,<b><a href='https://www.attractionscanada.com/British-Columbia/Attractions.asp'>BRITISH COLUMBIA</a></b>
+12,YUKON,https://www.attractionscanada.com/Yukon/Attractions.asp,-134.06,62.26,4,<b><a href='https://www.attractionscanada.com/Yukon/Attractions.asp'>YUKON</a></b>
